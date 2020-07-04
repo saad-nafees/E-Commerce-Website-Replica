@@ -1,0 +1,16 @@
+.formheader{
+  color: red;
+  font-weight: bold;
+}
+div.formlayout{
+    margin-left: 400px;
+}
+div.formss{
+       width: 50%;
+
+
+}
+div.formssc{
+    width: 50%;
+    float: right;
+}
